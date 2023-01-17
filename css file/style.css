@@ -1,10 +1,11 @@
-header, ul{
+header,
+ul {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
 
-#header-img{
+#header-img {
   width: 400px;
 }
 
@@ -12,12 +13,12 @@ header, ul{
   text-decoration: none;
 }
 
-#sectionVideo{
+#sectionVideo {
   margin: auto;
   padding-left: 40%;
 }
 
-#nav-bar{
+#nav-bar {
   width: 300px;
 }
 
@@ -29,7 +30,7 @@ body {
   background-color: gainsboro;
 }
 
-section{
+section {
   margin-left: 20%;
   padding-top: 20px;
 }
@@ -38,7 +39,7 @@ header {
   position: fixed;
   top: 0;
   min-height: 75px;
-  padding: 0px 20px;
+  padding: 1px 20px;
   display: flex;
   justify-content: space-around;
   align-items: center;
